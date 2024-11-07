@@ -1,0 +1,11 @@
+nav details li a {
+    font-size: 0.7em;
+}
+
+details summary + ul li a:hover {
+    font-weight: 700;
+}
+
+details summary {
+    font-family: 'Bungee', sans-serif;
+}
